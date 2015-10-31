@@ -14,3 +14,6 @@ Mini Sql Engine is one which runs a subset of SQL Queries using command line int
 8. select <colNames> from <tableNames>
 9. select <colnames> from <tableNames> where <join-condition>
 
+### How to run
+python code.py "SQL Query"
+
