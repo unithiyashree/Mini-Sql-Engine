@@ -1,9 +1,9 @@
-### Mini-Sql-Engine
+# Mini-Sql-Engine
 
-# Description
+### Description
 Mini Sql Engine is one which runs a subset of SQL Queries using command line interface.
 
-# SQL Query Syntax
+### SQL Query Syntax
 1. select * from <tableName>
 2. select aggregate(column) from <tableName>
 3. select <colnames> from <tableName> [ colnames = seperated only by , and no extra spaces]
