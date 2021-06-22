@@ -1,7 +1,7 @@
 # Mini-Sql-Engine
 
 ### Description
-Mini Sql Engine is one which runs a subset of SQL Queries using command line interface.
+Mini Sql Engine is a project which can run a subset of SQL Queries using command line interface.
 
 ### SQL Query Syntax
 1. select * from <tableName>
